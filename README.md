@@ -60,8 +60,8 @@ FlexiCalc/
 Aucune installation requise. Clone ce dépôt et ouvre `index.html` dans ton navigateur :
 
 ```bash
-git clone https://github.com/votre-utilisateur/FlexiCalc.git
-cd FlexiCalc
+git clone https://github.com/Edith505/Flexi_Calc.git
+cd Flexi_Calc
 start index.html
 ```
 
